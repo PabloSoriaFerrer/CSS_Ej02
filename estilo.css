@@ -1,0 +1,44 @@
+body {
+    background-color: white;
+}
+
+h1,div.azul {
+    text-align: center;
+    background-color: turquoise;
+    padding: 30px
+}
+ 
+div hr{
+    font-size: 85%;
+}
+
+div.img{
+    text-align: center;
+}
+
+img.vlc:hover{
+    opacity: 0.4;
+}
+
+img.vlc{
+    opacity: 1;
+}
+
+div.titulo{
+    background-color: blue;
+    padding: 5px;
+}
+
+div h3 {
+    background-color: white;
+    color: blue;
+    padding: 5px;
+    text-align: center;
+}
+
+div.fondo{
+    background-image: url(img/valencia_antigua.jpg);
+    background-repeat: no-repeat;
+    background-size: 600px 500px;
+    background-position: top center;
+}
